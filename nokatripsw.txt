@@ -2,7 +2,7 @@ Git merupakan sebuah software unutk mengelola perubahan file di dalam folder (re
 Git akan menyimpan serangkaian perubahan dengan menggunakan commit dan akan diberi hash atau penanda
 Tanpa git maka akan terdapat banyak file yang  ada terganrung nama perubahan yang kita buat. Sedangkan dengan git kita dapat menyimpan perubahan dalam satu folder dengan menggunakan commit tersebut . 
 
-vcs atau version control system yang mengelola perubahan suatu dokumen.
+
 
 Beberapa problem dalam vcs
 
